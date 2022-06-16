@@ -1,0 +1,9 @@
+.wave {
+    position: absolute;
+
+    border-radius: 50%;
+
+    z-index: 100;
+    box-sizing: border-box;
+    transition: .2s;
+}
